@@ -1,0 +1,5 @@
+{
+  "name": "FirechargeStore",
+  "displayName": "firecharge-store",
+  "android": {"packageName": "com.store.app"}
+}
